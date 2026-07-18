@@ -1,7 +1,7 @@
 {
   "NAVIGATION": {
     "nav_home": {"en": "Home", "it": "Home", "de": "Startseite", "fr": "Accueil"},
-    "nav_tour": {"en": "Tour", "it": "Tour", "de": "Tour", "fr": "Visite"},
+    "nav_tour": {"en": "Safari", "it": "Tour", "de": "Tour", "fr": "Visite"},
     "nav_gallery": {"en": "Gallery", "it": "Gallery", "de": "Galerie", "fr": "Galerie"},
     "nav_chi_siamo": {"en": "Chi siamo", "it": "Chi siamo", "de": "Über uns", "fr": "À propos"},
     "nav_contattaci": {"en": "Contattaci", "it": "Contattaci", "de": "Kontakt", "fr": "Nous contacter"},
