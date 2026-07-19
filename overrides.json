@@ -18,5 +18,15 @@
     "en": "Fun Facts!",
     "de": "Wissenswertes!",
     "fr": "Le saviez-vous ?"
+  },
+  "Home": {
+    "en": "Home",
+    "de": "Home",
+    "fr": "Home"
+  },
+  "HOME": {
+    "en": "HOME",
+    "de": "HOME",
+    "fr": "HOME"
   }
 }
