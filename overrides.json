@@ -1,4 +1,22 @@
 {
-  "Scopri di più!": {"en": "Discover more!", "de": "Mehr entdecken!", "fr": "En savoir plus !"},
-  "Prenota un Safari!": {"en": "Book a Safari!", "de": "Buchen Sie eine Safari!", "fr": "Réservez un safari !"}
+  "Scopri di più!": {
+    "en": "Discover more!",
+    "de": "Mehr entdecken!",
+    "fr": "En savoir plus !"
+  },
+  "Prenota un Safari!": {
+    "en": "Book a Safari!",
+    "de": "Buchen Sie eine Safari!",
+    "fr": "Réservez un safari !"
+  },
+  "Curiosità": {
+    "en": "Fun Facts",
+    "de": "Wissenswertes",
+    "fr": "Le saviez-vous ?"
+  },
+  "Curiosità!": {
+    "en": "Fun Facts",
+    "de": "Wissenswertes",
+    "fr": "Le saviez-vous ?"
+  }
 }
