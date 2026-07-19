@@ -1,91 +1,366 @@
 {
   "NAVIGATION": {
-    "nav_home": {"en": "Home", "it": "Home", "de": "Startseite", "fr": "Accueil"},
-    "nav_tour": {"en": "Safari", "it": "Tour", "de": "Tour", "fr": "Visite"},
-    "nav_gallery": {"en": "Gallery", "it": "Gallery", "de": "Galerie", "fr": "Galerie"},
-    "nav_chi_siamo": {"en": "Chi siamo", "it": "Chi siamo", "de": "Über uns", "fr": "À propos"},
-    "nav_contattaci": {"en": "Contattaci", "it": "Contattaci", "de": "Kontakt", "fr": "Nous contacter"},
-    "cta_prenota": {"en": "Prenota la tua esperienza!", "it": "Prenota la tua esperienza!", "de": "Buchen Sie Ihr Erlebnis!", "fr": "Réservez votre expérience!"}
+    "nav_home": {
+      "it": "Home",
+      "en": "Home",
+      "de": "Startseite",
+      "fr": "Accueil"
+    },
+    "nav_tour": {
+      "it": "Tour",
+      "en": "Tours",
+      "de": "Touren",
+      "fr": "Circuits"
+    },
+    "nav_gallery": {
+      "it": "Gallery",
+      "en": "Gallery",
+      "de": "Galerie",
+      "fr": "Galerie"
+    },
+    "nav_chi_siamo": {
+      "it": "Chi siamo",
+      "en": "About Us",
+      "de": "Über uns",
+      "fr": "À propos"
+    },
+    "nav_contattaci": {
+      "it": "Contattaci",
+      "en": "Contact",
+      "de": "Kontakt",
+      "fr": "Contact"
+    },
+    "cta_prenota": {
+      "it": "Prenota la tua esperienza!",
+      "en": "Book your experience!",
+      "de": "Buchen Sie Ihr Erlebnis!",
+      "fr": "Réservez votre expérience !"
+    }
   },
-
   "HERO": {
-    "hero_title": {"en": "LONTANO DA TUTTO, VICINO ALL'ESSENZIALE", "it": "LONTANO DA TUTTO, VICINO ALL'ESSENZIALE", "de": "WEIT WEG VON ALLEM, NAH BEI DEM WESENTLICHEN", "fr": "LOIN DE TOUT, PRÈS DE L'ESSENTIEL"},
-    "hero_subtitle": {"en": "La tua esperienza in Kenya", "it": "La tua esperienza in Kenya", "de": "Ihr Kenia-Erlebnis", "fr": "Votre expérience au Kenya"},
-    "hero_cta": {"en": "Scopri i Tour!", "it": "Scopri i Tour!", "de": "Entdecken Sie die Touren!", "fr": "Découvrez les tours!"}
+    "hero_title": {
+      "it": "LONTANO DA TUTTO, VICINO ALL'ESSENZA",
+      "en": "FAR FROM EVERYTHING, CLOSE TO WHAT MATTERS",
+      "de": "FERN VON ALLEM, NAH AM WESENTLICHEN",
+      "fr": "LOIN DE TOUT, PROCHE DE L'ESSENTIEL"
+    },
+    "hero_subtitle": {
+      "it": "La tua esperienza in Kenya",
+      "en": "Your Kenya experience",
+      "de": "Ihr Kenia-Erlebnis",
+      "fr": "Votre expérience au Kenya"
+    },
+    "hero_cta": {
+      "it": "Scopri di più!",
+      "en": "Discover more!",
+      "de": "Mehr entdecken!",
+      "fr": "En savoir plus !"
+    }
   },
-
   "ABOUT": {
-    "about_intro": {"en": "Usahili nasce da un legame autentico con il Kenya e dalla voglia di condividere una passione in modo semplice. Lavoriamo a stretto contatto con persone, luoghi e realtà che abbiamo personalmente vissuto ed è grazie a loro che possiamo accompagnarti a scoprire questa meravigliosa Terra.", "it": "Usahili nasce da un legame autentico con il Kenya e dalla voglia di condividere una passione in modo semplice. Lavoriamo a stretto contatto con persone, luoghi e realtà che abbiamo personalmente vissuto ed è grazie a loro che possiamo accompagnarti a scoprire questa meravigliosa Terra.", "de": "Usahili entsteht aus einer authentischen Verbindung zu Kenia und dem Wunsch, eine Leidenschaft einfach zu teilen. Wir arbeiten eng mit Menschen, Orten und Realitäten zusammen, die wir persönlich erlebt haben, und dank ihnen können wir dich bei der Entdeckung dieses wunderbaren Landes begleiten.", "fr": "Usahili naît d'un lien authentique avec le Kenya et du désir de partager une passion simplement. Nous travaillons en étroite collaboration avec des personnes, des lieux et des réalités que nous avons personnellement vécus, et c'est grâce à eux que nous pouvons vous accompagner à la découverte de cette magnifique Terre."},
-    "about_vision": {"en": "Usahili creerà un viaggio pensato per te per portarti a vivere il tuo Kenya. Dalla savana all'oceano, tra safari, lodge, resort ed avventure: desideriamo farti tornare a casa non con un viaggio ma con una storia che porterai per sempre dentro di te.", "it": "Usahili creerà un viaggio pensato per te per portarti a vivere il tuo Kenya. Dalla savana all'oceano, tra safari, lodge, resort ed avventure: desideriamo farti tornare a casa non con un viaggio ma con una storia che porterai per sempre dentro di te.", "de": "Usahili wird eine Reise für Sie schaffen, um Ihr Kenia zu erleben. Von der Savanne zum Meer, unter Safaris, Lodges, Resorts und Abenteuern: Wir möchten, dass Sie nicht mit einer Reise nach Hause zurückkehren, sondern mit einer Geschichte, die Sie für immer in sich tragen.", "fr": "Usahili créera un voyage pensé pour vous pour vous faire vivre votre Kenya. De la savane à l'océan, entre safaris, lodges, resorts et aventures: nous voulons que vous rentriez chez vous non pas avec un voyage mais avec une histoire que vous porterez à jamais en vous."},
-    "discover_about": {"en": "Scopri chi siamo!", "it": "Scopri chi siamo!", "de": "Erfahren Sie mehr über uns!", "fr": "Découvrez qui nous sommes!"}
+    "about_intro": {
+      "it": "Usahili nasce da un legame autentico con il Kenya e dalla voglia di condividere una passione in modo semplice. Lavoriamo a stretto contatto con persone, luoghi e realtà che abbiamo personalmente vissuto ed è grazie a loro che possiamo accompagnarti a scoprire questa meravigliosa Terra.",
+      "en": "Usahili was born from an authentic bond with Kenya and the desire to share a passion in a simple way. We work closely with people, places and communities we have personally experienced, and it is thanks to them that we can guide you in discovering this wonderful land.",
+      "de": "Usahili entstand aus einer echten Verbundenheit mit Kenia und dem Wunsch, eine Leidenschaft auf einfache Weise zu teilen. Wir arbeiten eng mit Menschen, Orten und Gemeinschaften zusammen, die wir persönlich erlebt haben, und dank ihnen können wir Sie bei der Entdeckung dieses wunderbaren Landes begleiten.",
+      "fr": "Usahili est né d'un lien authentique avec le Kenya et du désir de partager une passion de manière simple. Nous travaillons en étroite collaboration avec des personnes, des lieux et des communautés que nous avons personnellement vécus, et c'est grâce à eux que nous pouvons vous accompagner à la découverte de cette terre merveilleuse."
+    },
+    "about_vision": {
+      "it": "Usahili creerà un viaggio pensato per te per portarti a vivere il tuo Kenya. Dalla savana all'oceano, tra safari, lodge, resort ed avventure: desideriamo farti tornare a casa non con un viaggio ma con una storia che porterai per sempre dentro di te.",
+      "en": "Usahili will craft a journey designed for you, to let you live your own Kenya. From the savannah to the ocean, among safaris, lodges, resorts and adventures: we want you to return home not with a trip, but with a story you will carry within you forever.",
+      "de": "Usahili gestaltet eine auf Sie zugeschnittene Reise, damit Sie Ihr eigenes Kenia erleben. Von der Savanne bis zum Ozean, zwischen Safaris, Lodges, Resorts und Abenteuern: Wir möchten, dass Sie nicht mit einer Reise nach Hause zurückkehren, sondern mit einer Geschichte, die Sie für immer in sich tragen.",
+      "fr": "Usahili créera un voyage pensé pour vous, pour vous faire vivre votre Kenya. De la savane à l'océan, entre safaris, lodges, resorts et aventures : nous voulons que vous rentriez chez vous non pas avec un voyage, mais avec une histoire que vous porterez à jamais en vous."
+    },
+    "discover_about": {
+      "it": "Scopri chi siamo!",
+      "en": "Discover who we are!",
+      "de": "Erfahren Sie, wer wir sind!",
+      "fr": "Découvrez qui nous sommes !"
+    }
   },
-
   "DESTINATIONS": {
-    "destinations_title": {"en": "Parchi", "it": "Parchi", "de": "Parks", "fr": "Parcs"},
-    "destinations_map": {"en": "MAPPA INTERATTIVA!", "it": "MAPPA INTERATTIVA!", "de": "INTERAKTIVE KARTE!", "fr": "CARTE INTERACTIVE!"},
-    "masai_mara_title": {"en": "MASAI MARA", "it": "MASAI MARA", "de": "MASAI MARA", "fr": "MASAI MARA"},
-    "masai_mara_desc": {"en": "La Riserva Nazionale del Maasai Mara, situata nel Kenya sudoccidentale, è una delle destinazioni per safari più iconiche al mondo. È rinomata per l'elevata concentrazione di grandi felini, tra cui leoni, leopardi e ghepardi, nonché per la Grande Migrazione degli gnu, che si svolge ogni anno tra luglio e ottobre.", "it": "La Riserva Nazionale del Maasai Mara, situata nel Kenya sudoccidentale, è una delle destinazioni per safari più iconiche al mondo. È rinomata per l'elevata concentrazione di grandi felini, tra cui leoni, leopardi e ghepardi, nonché per la Grande Migrazione degli gnu, che si svolge ogni anno tra luglio e ottobre.", "de": "Das Maasai Mara Nationalreservat, das sich im Südwesten Kenias befindet, ist eines der ikonischsten Safari-Ziele der Welt. Es ist bekannt für die hohe Konzentration großer Raubkatzen, darunter Löwen, Leoparden und Geparden, sowie für die Große Gnuwanderung, die jedes Jahr zwischen Juli und Oktober stattfindet.", "fr": "La réserve nationale du Maasai Mara, située dans le sud-ouest du Kenya, est l'une des destinations de safari les plus emblématiques du monde. Elle est célèbre pour la grande concentration de grands félins, dont les lions, les léopards et les guépards, ainsi que pour la Grande Migration des gnus, qui se déroule chaque année entre juillet et octobre."},
-    "contattaci": {"en": "Contattaci!", "it": "Contattaci!", "de": "Kontaktieren Sie uns!", "fr": "Nous contacter!"}
+    "destinations_title": {
+      "it": "Parchi",
+      "en": "Parks",
+      "de": "Parks",
+      "fr": "Parcs"
+    },
+    "destinations_map": {
+      "it": "MAPPA INTERATTIVA!",
+      "en": "INTERACTIVE MAP!",
+      "de": "INTERAKTIVE KARTE!",
+      "fr": "CARTE INTERACTIVE !"
+    },
+    "masai_mara_title": {
+      "it": "MASAI MARA",
+      "en": "MASAI MARA",
+      "de": "MASAI MARA",
+      "fr": "MASAI MARA"
+    },
+    "masai_mara_desc": {
+      "it": "La Riserva Nazionale del Maasai Mara, situata nel Kenya sudoccidentale, è una delle destinazioni per safari più iconiche al mondo. È rinomata per l'elevata concentrazione di grandi felini, tra cui leoni, leopardi e ghepardi, nonché per la Grande Migrazione degli gnu, che si svolge ogni anno tra luglio e ottobre.",
+      "en": "The Maasai Mara National Reserve, in south-western Kenya, is one of the most iconic safari destinations in the world. It is renowned for its high concentration of big cats, including lions, leopards and cheetahs, as well as for the Great Wildebeest Migration, which takes place every year between July and October.",
+      "de": "Das Maasai Mara National Reserve im Südwesten Kenias ist eines der bekanntesten Safariziele der Welt. Es ist berühmt für die hohe Dichte an Großkatzen wie Löwen, Leoparden und Geparden sowie für die Große Gnuwanderung, die jedes Jahr zwischen Juli und Oktober stattfindet.",
+      "fr": "La réserve nationale du Maasai Mara, dans le sud-ouest du Kenya, est l'une des destinations de safari les plus emblématiques au monde. Elle est réputée pour sa forte concentration de grands félins, dont les lions, les léopards et les guépards, ainsi que pour la Grande Migration des gnous, qui a lieu chaque année entre juillet et octobre."
+    },
+    "contattaci": {
+      "it": "Contattaci!",
+      "en": "Contact us!",
+      "de": "Kontaktieren Sie uns!",
+      "fr": "Contactez-nous !"
+    }
   },
-
   "ACCOMMODATION": {
-    "accommodation_title": {"en": "Dove alloggi?", "it": "Dove alloggi?", "de": "Wo übernachten Sie?", "fr": "Où allogez-vous?"},
-    "accommodation_types": {"en": "RESORT DI LUSSO | RESORT | PENSIONI E VILLE WATAMU | MALINDI | DIANI", "it": "RESORT DI LUSSO | RESORT | PENSIONI E VILLE WATAMU | MALINDI | DIANI", "de": "LUXUSRESORTS | RESORTS | GASTHÖFE UND VILLEN WATAMU | MALINDI | DIANI", "fr": "RESORTS DE LUXE | RESORTS | GÎTES ET VILLAS WATAMU | MALINDI | DIANI"},
-    "accommodation_desc": {"en": "A seguito di una consulenza personalizzata, selezioniamo con cura la sistemazione più adatta al vostro stile di viaggio e alle vostre esigenze.", "it": "A seguito di una consulenza personalizzata, selezioniamo con cura la sistemazione più adatta al vostro stile di viaggio e alle vostre esigenze.", "de": "Nach einer persönlichen Beratung wählen wir sorgfältig die am besten geeignete Unterkunft für Ihren Reisestil und Ihre Bedürfnisse aus.", "fr": "Suite à une consultation personnalisée, nous sélectionnons soigneusement l'hébergement le mieux adapté à votre style de voyage et à vos besoins."},
-    "free_consultation": {"en": "Prenota la tua consulenza gratuita", "it": "Prenota la tua consulenza gratuita", "de": "Buchen Sie Ihre kostenlose Beratung", "fr": "Réservez votre consultation gratuite"},
-    "whatsapp": {"en": "WHATSAPP", "it": "WHATSAPP", "de": "WHATSAPP", "fr": "WHATSAPP"}
+    "accommodation_title": {
+      "it": "Dove alloggi?",
+      "en": "Where will you stay?",
+      "de": "Wo übernachten Sie?",
+      "fr": "Où logez-vous ?"
+    },
+    "accommodation_types": {
+      "it": "RESORT DI LUSSO | RESORT | GUEST HOUSE E VILLE",
+      "en": "LUXURY RESORTS | RESORTS | GUEST HOUSES & VILLAS",
+      "de": "LUXUSRESORTS | RESORTS | GÄSTEHÄUSER & VILLEN",
+      "fr": "RESORTS DE LUXE | RESORTS | MAISONS D'HÔTES & VILLAS"
+    },
+    "accommodation_desc": {
+      "it": "A seguito di una consulenza personalizzata, selezioniamo con cura la sistemazione più adatta al vostro stile di viaggio e alle vostre esigenze.",
+      "en": "Following a personalised consultation, we carefully select the accommodation best suited to your travel style and your needs.",
+      "de": "Nach einer persönlichen Beratung wählen wir sorgfältig die Unterkunft aus, die am besten zu Ihrem Reisestil und Ihren Bedürfnissen passt.",
+      "fr": "À la suite d'une consultation personnalisée, nous sélectionnons avec soin l'hébergement le mieux adapté à votre style de voyage et à vos besoins."
+    },
+    "free_consultation": {
+      "it": "Prenota la tua consulenza gratuita",
+      "en": "Book your free consultation",
+      "de": "Buchen Sie Ihre kostenlose Beratung",
+      "fr": "Réservez votre consultation gratuite"
+    },
+    "whatsapp": {
+      "it": "WHATSAPP",
+      "en": "WHATSAPP",
+      "de": "WHATSAPP",
+      "fr": "WHATSAPP"
+    }
   },
-
   "GALLERY": {
-    "gallery_title": {"en": "Gallery", "it": "Gallery", "de": "Galerie", "fr": "Galerie"},
-    "discover_all_photos": {"en": "Scopri tutte le foto!", "it": "Scopri tutte le foto!", "de": "Entdecken Sie alle Fotos!", "fr": "Découvrez toutes les photos!"}
+    "gallery_title": {
+      "it": "Gallery",
+      "en": "Gallery",
+      "de": "Galerie",
+      "fr": "Galerie"
+    },
+    "discover_all_photos": {
+      "it": "Scopri tutte le foto!",
+      "en": "See all the photos!",
+      "de": "Alle Fotos ansehen!",
+      "fr": "Voir toutes les photos !"
+    }
   },
-
   "EXPERIENCES": {
-    "experiences_title": {"en": "Esperienze", "it": "Esperienze", "de": "Erfahrungen", "fr": "Expériences"},
-    "safari_blue": {"en": "SAFARI BLUE", "it": "SAFARI BLUE", "de": "SAFARI BLAU", "fr": "SAFARI BLEU"},
-    "safari_blue_desc": {"en": "Esci in barca con i pescatori locali tra isole di corallo. Nuoti sopra barriere intatte, vedi tartarughe e pesci che non sapevi esistessero. Tranquillo, genuino, lontano dai tour boats. Il mare vero.", "it": "Esci in barca con i pescatori locali tra isole di corallo. Nuoti sopra barriere intatte, vedi tartarughe e pesci che non sapevi esistessero. Tranquillo, genuino, lontano dai tour boats. Il mare vero.", "de": "Gehen Sie mit lokalen Fischern zwischen Koralleninseln an Bord. Sie schwimmen über intakte Riffe, sehen Schildkröten und Fische, von denen Sie nicht wussten, dass es sie gibt. Ruhig, authentisch, weit weg von touristischen Booten. Das echte Meer.", "fr": "Embarquez avec les pêcheurs locaux entre les îles de corail. Vous nagez au-dessus de récifs intacts, voyez des tortues et des poissons dont vous ne saviez pas qu'ils existaient. Calme, authentique, loin des bateaux touristiques. La vraie mer."},
-    "hells_kitchen": {"en": "HELL'S KITCHEN", "it": "HELL'S KITCHEN", "de": "HELL'S KITCHEN", "fr": "HELL'S KITCHEN"},
-    "hells_kitchen_desc": {"en": "Gole strette di roccia vulcanica dove cammini tra pareti altissime. Fa caldo, vedi aquile, gazzelle ogni tanto. Non è comodo, ma è vero. Ti senti piccolo lì dentro.", "it": "Gole strette di roccia vulcanica dove cammini tra pareti altissime. Fa caldo, vedi aquile, gazzelle ogni tanto. Non è comodo, ma è vero. Ti senti piccolo lì dentro.", "de": "Enge Schluchten aus vulkanischem Gestein, wo Sie zwischen hohen Wänden gehen. Es ist heiß, man sieht ab und zu Adler und Gazellen. Es ist nicht komfortabel, aber es ist echt. Man fühlt sich dort winzig.", "fr": "Gorges étroites de roche volcanique où vous marchez entre des murs hauts. Il fait chaud, vous voyez des aigles, des gazelles de temps en temps. Ce n'est pas confortable, mais c'est vrai. Vous vous sentez petit là-dedans."},
-    "rovine_gede": {"en": "ROVINE DI GEDE", "it": "ROVINE DI GEDE", "de": "RUINEN VON GEDE", "fr": "RUINES DE GEDE"},
-    "rovine_gede_desc": {"en": "Città swahili del 1600 abbandonata nella giungla. Muri di corallo ancora in piedi, moschee vuote, silenzio. Le nostre guide conoscono la storia — non è turismo, è archeologia vera.", "it": "Città swahili del 1600 abbandonata nella giungla. Muri di corallo ancora in piedi, moschee vuote, silenzio. Le nostre guide conoscono la storia — non è turismo, è archeologia vera.", "de": "Suahelistadt aus dem 1600. Jahrhundert, verlassen im Dschungel. Korallenmauern stehen noch, leere Moscheen, Stille. Unsere Führer kennen die Geschichte — das ist keine Touristik, das ist echte Archäologie.", "fr": "Ville swahilie du 1600 abandonnée dans la jungle. Des murs de corail toujours debout, des mosquées vides, du silence. Nos guides connaissent l'histoire — ce n'est pas du tourisme, c'est de la véritable archéologie."},
-    "watamu": {"en": "WATAMU", "it": "WATAMU", "de": "WATAMU", "fr": "WATAMU"},
-    "watamu_desc": {"en": "Spiaggia bianca, corallo a 50 metri, acqua turchese — davvero come la Sardegna. Dopo il safari riposi qui, snorkeling facile, pesce fresco la sera. Safari e mare nello stesso viaggio.", "it": "Spiaggia bianca, corallo a 50 metri, acqua turchese — davvero come la Sardegna. Dopo il safari riposi qui, snorkeling facile, pesce fresco la sera. Safari e mare nello stesso viaggio.", "de": "Weißer Strand, Riff 50 Meter entfernt, türkisfarbenes Wasser — wirklich wie Sardinien. Nach der Safari können Sie sich hier ausruhen, einfaches Schnorcheln, frischen Fisch am Abend. Safari und Meer auf einer Reise.", "fr": "Plage blanche, récif à 50 mètres, eau turquoise — vraiment comme la Sardaigne. Après le safari, vous vous reposez ici, snorkeling facile, poisson frais le soir. Safari et mer en un seul voyage."},
-    "discover_photos": {"en": "Scopri le foto!", "it": "Scopri le foto!", "de": "Entdecken Sie die Fotos!", "fr": "Découvrez les photos!"}
+    "experiences_title": {
+      "it": "Esperienze",
+      "en": "Experiences",
+      "de": "Erlebnisse",
+      "fr": "Expériences"
+    },
+    "safari_blue": {
+      "it": "SAFARI BLUE",
+      "en": "SAFARI BLUE",
+      "de": "SAFARI BLUE",
+      "fr": "SAFARI BLUE"
+    },
+    "safari_blue_desc": {
+      "it": "Un'esperienza di un'intera giornata dedicata al mare, con partenza da Watamu a bordo di una barca tradizionale con fondo di vetro (glass-boat) per esplorare la vita marina. L'escursione può includere l'avvistamento dei delfini, lo snorkeling e una visita alla spiaggia di Garoda. La giornata prosegue attraverso i canali nelle mangrovie, dove potrete gustare un pranzo a base di pesce prima di rientrare nel pomeriggio.",
+      "en": "A full-day experience dedicated to the sea, departing from Watamu aboard a traditional glass-bottom boat to explore marine life. The excursion may include dolphin sightings, snorkelling and a visit to Garoda beach. The day continues through the mangrove channels, where you can enjoy a fish-based lunch before returning in the afternoon.",
+      "de": "Ein ganztägiges Erlebnis am Meer, mit Abfahrt von Watamu an Bord eines traditionellen Glasbodenbootes, um die Unterwasserwelt zu erkunden. Der Ausflug kann Delfinbeobachtungen, Schnorcheln und einen Besuch am Strand von Garoda umfassen. Der Tag führt weiter durch die Mangrovenkanäle, wo Sie ein Mittagessen mit Fisch genießen, bevor es am Nachmittag zurückgeht.",
+      "fr": "Une expérience d'une journée entière dédiée à la mer, au départ de Watamu à bord d'un bateau traditionnel à fond de verre pour explorer la vie marine. L'excursion peut inclure l'observation des dauphins, le snorkeling et une visite de la plage de Garoda. La journée se poursuit à travers les canaux de la mangrove, où vous pourrez savourer un déjeuner de poisson avant de rentrer dans l'après-midi."
+    },
+    "hells_kitchen": {
+      "it": "HELL'S KITCHEN",
+      "en": "HELL'S KITCHEN",
+      "de": "HELL'S KITCHEN",
+      "fr": "HELL'S KITCHEN"
+    },
+    "hells_kitchen_desc": {
+      "it": "Hell's Kitchen, conosciuto anche come Marafa Canyon, è un canyon di arenaria unico nel suo genere in Kenya, famoso per le sue spettacolari formazioni rocciose e i colori cangianti, soprattutto al tramonto. Offre un paesaggio suggestivo e surreale, che lo rende una meta popolare per brevi escursioni e visite guidate. Al termine dell'escursione potrete ammirare uno splendido tramonto.",
+      "en": "Hell's Kitchen, also known as Marafa Canyon, is a one-of-a-kind sandstone canyon in Kenya, famous for its spectacular rock formations and shifting colours, especially at sunset. It offers a striking, almost surreal landscape, making it a popular spot for short hikes and guided tours. At the end of the excursion you can admire a stunning sunset.",
+      "de": "Hell's Kitchen, auch als Marafa Canyon bekannt, ist ein einzigartiger Sandsteincanyon in Kenia, berühmt für seine spektakulären Felsformationen und wechselnden Farben, besonders bei Sonnenuntergang. Die eindrucksvolle, fast surreale Landschaft macht ihn zu einem beliebten Ziel für kurze Wanderungen und Führungen. Zum Abschluss des Ausflugs erwartet Sie ein herrlicher Sonnenuntergang.",
+      "fr": "Hell's Kitchen, également connu sous le nom de Marafa Canyon, est un canyon de grès unique en son genre au Kenya, célèbre pour ses spectaculaires formations rocheuses et ses couleurs changeantes, surtout au coucher du soleil. Il offre un paysage saisissant et presque surréaliste, ce qui en fait une destination prisée pour de courtes randonnées et des visites guidées. À la fin de l'excursion, vous pourrez admirer un magnifique coucher de soleil."
+    },
+    "rovine_gede": {
+      "it": "ROVINE DI GEDE",
+      "en": "GEDE RUINS",
+      "de": "RUINEN VON GEDE",
+      "fr": "RUINES DE GEDE"
+    },
+    "rovine_gede_desc": {
+      "it": "Le rovine di Gede sono i resti di un'antica città swahili nascosta in una foresta vicino a Watamu. Risalente al XII secolo, il sito offre uno sguardo affascinante sulla storia costiera, con strutture ben conservate e un'atmosfera unica e tranquilla. Potrete anche fare amicizia con delle simpatiche scimmiette.",
+      "en": "The Gede Ruins are the remains of an ancient Swahili town hidden in a forest near Watamu. Dating back to the 12th century, the site offers a fascinating glimpse into coastal history, with well-preserved structures and a uniquely peaceful atmosphere. You may even make friends with some cheeky little monkeys.",
+      "de": "Die Ruinen von Gede sind die Überreste einer alten Suaheli-Stadt, verborgen in einem Wald nahe Watamu. Die aus dem 12. Jahrhundert stammende Stätte gewährt einen faszinierenden Einblick in die Küstengeschichte, mit gut erhaltenen Bauten und einer einzigartig ruhigen Atmosphäre. Vielleicht freunden Sie sich sogar mit ein paar frechen Äffchen an.",
+      "fr": "Les ruines de Gede sont les vestiges d'une ancienne cité swahilie cachée dans une forêt près de Watamu. Datant du XIIe siècle, le site offre un aperçu fascinant de l'histoire côtière, avec des structures bien conservées et une atmosphère unique et paisible. Vous pourrez même vous lier d'amitié avec de sympathiques petits singes."
+    },
+    "watamu": {
+      "it": "SARDEGNA DUE",
+      "en": "WATAMU",
+      "de": "WATAMU",
+      "fr": "WATAMU"
+    },
+    "watamu_desc": {
+      "it": "Trascorri una giornata di relax su una delle spiagge più belle del Kenya, tra acque cristalline, sabbia bianca e un'atmosfera unica. Potrai rilassarti, fare un bagno nell'oceano o passeggiare lungo la riva. Il nostro amico Alex ti aspetterà con un delizioso pranzo a base di pesce fresco alla griglia e piatti tipici della cucina locale, per rendere la tua giornata ancora più speciale.",
+      "en": "Spend a relaxing day on one of Kenya's most beautiful beaches, among crystal-clear waters, white sand and a unique atmosphere. You can unwind, swim in the ocean or stroll along the shore. Our friend Alex will be waiting for you with a delicious lunch of freshly grilled fish and typical local dishes, to make your day even more special.",
+      "de": "Verbringen Sie einen entspannten Tag an einem der schönsten Strände Kenias, zwischen kristallklarem Wasser, weißem Sand und einer einzigartigen Atmosphäre. Sie können sich entspannen, im Ozean baden oder am Ufer spazieren gehen. Unser Freund Alex erwartet Sie mit einem köstlichen Mittagessen aus frisch gegrilltem Fisch und typischen lokalen Gerichten, um Ihren Tag noch besonderer zu machen.",
+      "fr": "Passez une journée de détente sur l'une des plus belles plages du Kenya, entre eaux cristallines, sable blanc et atmosphère unique. Vous pourrez vous détendre, vous baigner dans l'océan ou vous promener le long du rivage. Notre ami Alex vous attendra avec un délicieux déjeuner de poisson frais grillé et de plats typiques de la cuisine locale, pour rendre votre journée encore plus spéciale."
+    },
+    "discover_photos": {
+      "it": "Scopri le foto!",
+      "en": "See the photos!",
+      "de": "Fotos ansehen!",
+      "fr": "Voir les photos !"
+    }
   },
-
   "VALUES": {
-    "values_title": {"en": "I nostri valori", "it": "I nostri valori", "de": "Unsere Werte", "fr": "Nos valeurs"},
-    "value_1_title": {"en": "Guide Locali, Storie Autentiche", "it": "Guide Locali, Storie Autentiche", "de": "Lokale Führer, authentische Geschichten", "fr": "Guides locaux, histoires authentiques"},
-    "value_1_desc": {"en": "Le nostre guide sono cresciute nei territori che condividono con voi — Masai, Samburu e ranger certificati con 10+ anni nel bush. Conoscono ogni waterhole, ogni trail, quando e dove trovare i Big 5. Non recitano il tour — lo vivono. Ogni safari è filtrato attraverso la loro conoscenza del territorio, della fauna e della cultura.", "it": "Le nostre guide sono cresciute nei territori che condividono con voi — Masai, Samburu e ranger certificati con 10+ anni nel bush. Conoscono ogni waterhole, ogni trail, quando e dove trovare i Big 5. Non recitano il tour — lo vivono. Ogni safari è filtrato attraverso la loro conoscenza del territorio, della fauna e della cultura.", "de": "Unsere Führer sind in den Gebieten aufgewachsen, die sie mit Ihnen teilen — Masai, Samburu und zertifizierte Ranger mit 10+ Jahren in der Wildnis. Sie kennen jeden Wasserloch, jeden Pfad, wann und wo man die Big Five findet. Sie spielen nicht die Tour vor — sie leben sie. Jede Safari wird durch ihr Wissen über das Territorium, die Fauna und die Kultur gefiltert.", "fr": "Nos guides ont grandi dans les territoires qu'ils partagent avec vous — Masai, Samburu et rangers certifiés avec 10+ ans dans la brousse. Ils connaissent chaque point d'eau, chaque sentier, quand et où trouver les Big Five. Ils ne jouent pas la visite — ils la vivent. Chaque safari est filtré par leur connaissance du territoire, de la faune et de la culture."},
-    "value_2_title": {"en": "Sostenibilità Non è Marketing", "it": "Sostenibilità Non è Marketing", "de": "Nachhaltigkeit ist kein Marketing", "fr": "La durabilité n'est pas du marketing"},
-    "value_2_desc": {"en": "Contribuiamo direttamente alla conservazione delle aree che attraversiamo, lavoriamo solo con lodge eco-certificati e manteniamo un rigoroso 'leave no trace policy'. I guadagni dei tour supportano comunità locali e progetti anti-poaching nelle riserve. Il Kenya che vi portiamo a scoprire è il Kenya che proteggiamo.", "it": "Contribuiamo direttamente alla conservazione delle aree che attraversiamo, lavoriamo solo con lodge eco-certificati e manteniamo un rigoroso 'leave no trace policy'. I guadagni dei tour supportano comunità locali e progetti anti-poaching nelle riserve. Il Kenya che vi portiamo a scoprire è il Kenya che proteggiamo.", "de": "Wir tragen direkt zum Schutz der Gebiete bei, die wir durchqueren, arbeiten nur mit ökozertifizierten Lodges zusammen und halten uns an eine strenge 'Leave no Trace Policy'. Die Gewinne aus den Touren unterstützen lokale Gemeinschaften und Anti-Wilderei-Projekte in den Reservaten. Das Kenia, das wir Ihnen zeigen, ist das Kenia, das wir schützen.", "fr": "Nous contribuons directement à la conservation des zones que nous traversons, ne travaillons qu'avec des lodges écocertifiés et maintenons une politique stricte de 'leave no trace'. Les bénéfices des tours soutiennent les communautés locales et les projets anti-braconnage dans les réserves. Le Kenya que nous vous montrons est le Kenya que nous protégeons."},
-    "value_3_title": {"en": "Accesso Privato a Riserve Esclusive", "it": "Accesso Privato a Riserve Esclusive", "de": "Privater Zugang zu exklusiven Reservaten", "fr": "Accès privé aux réserves exclusives"},
-    "value_3_desc": {"en": "Collaboriamo con riserve private e proprietari locali che concedono accesso a aree off-limits per i tour operator standard. Questo significa wildlife più concentrato, meno folle, e la possibilità di fermarsi quando avvistate qualcosa di straordinario — senza fretta.", "it": "Collaboriamo con riserve private e proprietari locali che concedono accesso a aree off-limits per i tour operator standard. Questo significa wildlife più concentrato, meno folle, e la possibilità di fermarsi quando avvistate qualcosa di straordinario — senza fretta.", "de": "Wir arbeiten mit privaten Reservaten und lokalen Grundbesitzern zusammen, die Zugang zu Gebieten gewähren, die für Standard-Touranbieter nicht zugänglich sind. Dies bedeutet konzentriertere Tierwelt, weniger Menschenmassen und die Möglichkeit anzuhalten, wenn man etwas Außergewöhnliches sieht — ohne Eile.", "fr": "Nous collaborons avec des réserves privées et des propriétaires locaux qui accordent l'accès à des zones interdites aux opérateurs touristiques standard. Cela signifie une faune plus concentrée, moins de foules, et la possibilité de s'arrêter quand vous voyez quelque chose d'extraordinaire — sans précipitation."}
+    "values_title": {
+      "it": "I nostri valori",
+      "en": "Our values",
+      "de": "Unsere Werte",
+      "fr": "Nos valeurs"
+    },
+    "value_1_title": {
+      "it": "Guide Locali, Storie Autentiche",
+      "en": "Local Guides, Authentic Stories",
+      "de": "Lokale Guides, authentische Geschichten",
+      "fr": "Guides locaux, histoires authentiques"
+    },
+    "value_1_desc": {
+      "it": "Le nostre guide sono cresciute nei territori che condividono con voi — Masai, Samburu e ranger certificati con oltre 10 anni nel bush. Conoscono ogni pozza d'acqua, ogni pista, quando e dove trovare i Big Five. Non recitano il tour — lo vivono. Ogni safari è filtrato attraverso la loro conoscenza del territorio, della fauna e della cultura.",
+      "en": "Our guides grew up in the very lands they share with you — Maasai, Samburu and certified rangers with over 10 years in the bush. They know every waterhole, every track, when and where to find the Big Five. They don't perform the tour — they live it. Every safari is filtered through their deep knowledge of the land, the wildlife and the culture.",
+      "de": "Unsere Guides sind in genau den Gebieten aufgewachsen, die sie mit Ihnen teilen — Maasai, Samburu und zertifizierte Ranger mit über 10 Jahren Erfahrung im Busch. Sie kennen jedes Wasserloch, jede Piste, wann und wo man die Big Five findet. Sie spielen die Tour nicht — sie leben sie. Jede Safari ist geprägt von ihrem tiefen Wissen über Land, Tierwelt und Kultur.",
+      "fr": "Nos guides ont grandi sur les terres mêmes qu'ils partagent avec vous — Maasai, Samburu et rangers certifiés avec plus de 10 ans d'expérience dans la brousse. Ils connaissent chaque point d'eau, chaque piste, quand et où trouver les Big Five. Ils ne jouent pas le circuit — ils le vivent. Chaque safari est filtré par leur connaissance profonde du territoire, de la faune et de la culture."
+    },
+    "value_2_title": {
+      "it": "Sostenibilità Non è Marketing",
+      "en": "Sustainability Is Not Marketing",
+      "de": "Nachhaltigkeit ist kein Marketing",
+      "fr": "La durabilité n'est pas du marketing"
+    },
+    "value_2_desc": {
+      "it": "Contribuiamo direttamente alla conservazione delle aree che attraversiamo, lavoriamo solo con lodge eco-certificati e manteniamo una rigorosa 'leave no trace policy'. I guadagni dei tour supportano comunità locali e progetti anti-bracconaggio nelle riserve. Il Kenya che vi portiamo a scoprire è il Kenya che proteggiamo.",
+      "en": "We contribute directly to the conservation of the areas we cross, work only with eco-certified lodges and maintain a strict 'leave no trace' policy. Tour proceeds support local communities and anti-poaching projects in the reserves. The Kenya we take you to discover is the Kenya we protect.",
+      "de": "Wir tragen direkt zum Schutz der Gebiete bei, die wir durchqueren, arbeiten ausschließlich mit öko-zertifizierten Lodges und halten eine strenge 'Leave no Trace'-Politik ein. Die Einnahmen der Touren unterstützen lokale Gemeinschaften und Anti-Wilderei-Projekte in den Reservaten. Das Kenia, das wir Ihnen zeigen, ist das Kenia, das wir schützen.",
+      "fr": "Nous contribuons directement à la conservation des zones que nous traversons, ne travaillons qu'avec des lodges éco-certifiés et respectons une stricte politique « leave no trace ». Les bénéfices des circuits soutiennent les communautés locales et les projets de lutte contre le braconnage dans les réserves. Le Kenya que nous vous faisons découvrir est le Kenya que nous protégeons."
+    },
+    "value_3_title": {
+      "it": "Accesso Privato a Riserve Esclusive",
+      "en": "Private Access to Exclusive Reserves",
+      "de": "Privater Zugang zu exklusiven Reservaten",
+      "fr": "Accès privé à des réserves exclusives"
+    },
+    "value_3_desc": {
+      "it": "Collaboriamo con riserve private e proprietari locali che concedono accesso ad aree off-limits per i tour operator standard. Questo significa fauna più concentrata, meno folla, e la possibilità di fermarsi quando avvistate qualcosa di straordinario — senza fretta.",
+      "en": "We partner with private reserves and local landowners who grant access to areas off-limits to standard tour operators. That means more concentrated wildlife, fewer crowds, and the freedom to stop whenever you spot something extraordinary — no rush.",
+      "de": "Wir arbeiten mit privaten Reservaten und lokalen Grundbesitzern zusammen, die Zugang zu Gebieten gewähren, die für gewöhnliche Reiseveranstalter gesperrt sind. Das bedeutet dichtere Tierwelt, weniger Menschen und die Freiheit anzuhalten, wann immer Sie etwas Außergewöhnliches entdecken — ganz ohne Eile.",
+      "fr": "Nous collaborons avec des réserves privées et des propriétaires locaux qui donnent accès à des zones interdites aux voyagistes classiques. Cela signifie une faune plus concentrée, moins de monde et la liberté de s'arrêter dès que vous apercevez quelque chose d'extraordinaire — sans précipitation."
+    }
   },
-
   "FAQ": {
-    "faq_title": {"en": "Domande Frequenti", "it": "Domande Frequenti", "de": "Häufig Gestellte Fragen", "fr": "Questions Fréquemment Posées"},
-    "faq_visa": {"en": "HO BISOGNO DI UN VISTO?", "it": "HO BISOGNO DI UN VISTO?", "de": "BRAUCHE ICH EIN VISUM?", "fr": "AI-JE BESOIN D'UN VISA?"},
-    "faq_insurance": {"en": "QUALI ASSICURAZIONI SONO OBBLIGATORIE?", "it": "QUALI ASSICURAZIONI SONO OBBLIGATORIE?", "de": "WELCHE VERSICHERUNGEN SIND OBLIGATORISCH?", "fr": "QUELLES ASSURANCES SONT OBLIGATOIRES?"},
-    "faq_vaccine": {"en": "LE VACCINAZIONI SONO OBBLIGATORIE?", "it": "LE VACCINAZIONI SONO OBBLIGATORIE?", "de": "SIND IMPFUNGEN ERFORDERLICH?", "fr": "LES VACCINATIONS SONT-ELLES OBLIGATOIRES?"},
-    "faq_seasons": {"en": "COME SONO LE STAGIONI?", "it": "COME SONO LE STAGIONI?", "de": "WIE SIND DIE JAHRESZEITEN?", "fr": "COMMENT SONT LES SAISONS?"},
-    "faq_tides": {"en": "COS'È IL FENOMENO DELLE MAREE", "it": "COS'È IL FENOMENO DELLE MAREE", "de": "WAS IST DAS GEZEITENPHÄNOMEN", "fr": "QU'EST-CE QUE LE PHÉNOMÈNE DES MARÉES"},
-    "faq_clothing": {"en": "COSA DEVO INDOSSARE?", "it": "COSA DEVO INDOSSARE?", "de": "WAS SOLL ICH ANZIEHEN?", "fr": "QU'EST-CE QUE JE DOIS PORTER?"},
-    "still_questions": {"en": "Se hai ancora domande", "it": "Se hai ancora domande", "de": "Wenn Sie noch Fragen haben", "fr": "Si vous avez d'autres questions"}
+    "faq_title": {
+      "it": "Domande Frequenti",
+      "en": "Frequently Asked Questions",
+      "de": "Häufig gestellte Fragen",
+      "fr": "Questions fréquentes"
+    },
+    "faq_visa": {
+      "it": "HO BISOGNO DI UN VISTO?",
+      "en": "DO I NEED A VISA?",
+      "de": "BRAUCHE ICH EIN VISUM?",
+      "fr": "AI-JE BESOIN D'UN VISA ?"
+    },
+    "faq_insurance": {
+      "it": "QUALI ASSICURAZIONI SONO OBBLIGATORIE?",
+      "en": "WHICH INSURANCE IS REQUIRED?",
+      "de": "WELCHE VERSICHERUNGEN SIND PFLICHT?",
+      "fr": "QUELLES ASSURANCES SONT OBLIGATOIRES ?"
+    },
+    "faq_vaccine": {
+      "it": "LE VACCINAZIONI SONO OBBLIGATORIE?",
+      "en": "ARE VACCINATIONS MANDATORY?",
+      "de": "SIND IMPFUNGEN PFLICHT?",
+      "fr": "LES VACCINATIONS SONT-ELLES OBLIGATOIRES ?"
+    },
+    "faq_seasons": {
+      "it": "COME SONO LE STAGIONI?",
+      "en": "WHAT ARE THE SEASONS LIKE?",
+      "de": "WIE SIND DIE JAHRESZEITEN?",
+      "fr": "COMMENT SONT LES SAISONS ?"
+    },
+    "faq_tides": {
+      "it": "COS'È IL FENOMENO DELLE MAREE?",
+      "en": "WHAT IS THE TIDE PHENOMENON?",
+      "de": "WAS HAT ES MIT DEN GEZEITEN AUF SICH?",
+      "fr": "QU'EST-CE QUE LE PHÉNOMÈNE DES MARÉES ?"
+    },
+    "faq_clothing": {
+      "it": "COSA DEVO INDOSSARE?",
+      "en": "WHAT SHOULD I WEAR?",
+      "de": "WAS SOLL ICH ANZIEHEN?",
+      "fr": "QUE DOIS-JE PORTER ?"
+    },
+    "still_questions": {
+      "it": "Se hai ancora domande",
+      "en": "If you still have questions",
+      "de": "Wenn Sie noch Fragen haben",
+      "fr": "Si vous avez encore des questions"
+    }
   },
-
   "TOURS": {
-    "tours_title": {"en": "Prenota un Safari!", "it": "Prenota un Tour!", "de": "Buchen Sie eine Safari!", "fr": "Réservez un safari!"},
-    "tours_cta": {"en": "Scopri tutti!", "it": "Scopri tutti!", "de": "Entdecken Sie alle!", "fr": "Découvrez tous!"},
-    "group_tours": {"en": "Scopri i SAFARI DI GRUPPO", "it": "Scopri i SAFARI DI GRUPPO", "de": "Entdecken Sie die GRUPPENSAFARIS", "fr": "Découvrez les SAFARIS DE GROUPE"},
-    "private_tours": {"en": "Organizza il tuo SAFARI PRIVATO", "it": "Organizza il tuo SAFARI PRIVATO", "de": "Organisieren Sie Ihre PRIVATE SAFARI", "fr": "Organisez votre SAFARI PRIVÉ"}
+    "tours_title": {
+      "it": "Prenota un Safari!",
+      "en": "Book a Safari!",
+      "de": "Buchen Sie eine Safari!",
+      "fr": "Réservez un safari !"
+    },
+    "tours_cta": {
+      "it": "Scopri di più!",
+      "en": "Discover more!",
+      "de": "Mehr entdecken!",
+      "fr": "En savoir plus !"
+    },
+    "group_tours": {
+      "it": "Scopri i SAFARI DI GRUPPO",
+      "en": "Explore GROUP SAFARIS",
+      "de": "GRUPPEN-SAFARIS entdecken",
+      "fr": "Découvrir les SAFARIS EN GROUPE"
+    },
+    "private_tours": {
+      "it": "Organizza un SAFARI PRIVATO",
+      "en": "Plan a PRIVATE SAFARI",
+      "de": "PRIVATE SAFARI organisieren",
+      "fr": "Organiser un SAFARI PRIVÉ"
+    }
   },
-
   "FOOTER": {
-    "footer_desc": {"en": "Tour operate locali con una grande passione per i nostri mercati e rispetto per le persone. Garantiamo esperienze autentiche e sostenibili per far vivere il Kenya come non l'hai mai visto.", "it": "Tour operate locali con una grande passione per i nostri mercati e rispetto per le persone. Garantiamo esperienze autentiche e sostenibili per far vivere il Kenya come non l'hai mai visto.", "de": "Lokale Touranbieter mit großer Leidenschaft für unsere Märkte und Respekt vor Menschen. Wir garantieren authentische und nachhaltige Erlebnisse, um Kenia wie nie zuvor zu erleben.", "fr": "Opérateurs touristiques locaux avec une grande passion pour nos marchés et le respect des personnes. Nous garantissons des expériences authentiques et durables pour découvrir le Kenya comme jamais auparavant."},
-    "newsletter": {"en": "Iscriviti alla newsletter per ricere sconti e novità!", "it": "Iscriviti alla newsletter per ricere sconti e novità!", "de": "Abonnieren Sie unseren Newsletter, um Rabatte und Neuigkeiten zu erhalten!", "fr": "Abonnez-vous à la newsletter pour recevoir des réductions et des nouveautés!"},
-    "copyright": {"en": "© 2026 USAHILI. Tutti i diritti riservati.", "it": "© 2026 USAHILI. Tutti i diritti riservati.", "de": "© 2026 USAHILI. Alle Rechte vorbehalten.", "fr": "© 2026 USAHILI. Tous droits réservés."},
-    "made_by": {"en": "Made by Mattia Salvadori", "it": "Made by Mattia Salvadori", "de": "Erstellt von Mattia Salvadori", "fr": "Créé par Mattia Salvadori"}
+    "footer_desc": {
+      "it": "Tour operator locale con una grande passione per i nostri territori e rispetto per le persone. Garantiamo esperienze autentiche e sostenibili per farti vivere il Kenya come non l'hai mai visto.",
+      "en": "A local tour operator with a deep passion for our lands and respect for people. We guarantee authentic, sustainable experiences to let you live Kenya as you've never seen it before.",
+      "de": "Ein lokaler Reiseveranstalter mit großer Leidenschaft für unsere Regionen und Respekt vor den Menschen. Wir garantieren authentische, nachhaltige Erlebnisse, damit Sie Kenia erleben, wie Sie es noch nie gesehen haben.",
+      "fr": "Un voyagiste local animé d'une grande passion pour nos territoires et du respect des personnes. Nous garantissons des expériences authentiques et durables pour vous faire vivre le Kenya comme vous ne l'avez jamais vu."
+    },
+    "newsletter": {
+      "it": "Iscriviti alla newsletter per ricevere sconti e novità!",
+      "en": "Subscribe to the newsletter for discounts and news!",
+      "de": "Abonnieren Sie den Newsletter für Rabatte und Neuigkeiten!",
+      "fr": "Abonnez-vous à la newsletter pour recevoir réductions et nouveautés !"
+    },
+    "copyright": {
+      "it": "© 2026 USAHILI. Tutti i diritti riservati.",
+      "en": "© 2026 USAHILI. All rights reserved.",
+      "de": "© 2026 USAHILI. Alle Rechte vorbehalten.",
+      "fr": "© 2026 USAHILI. Tous droits réservés."
+    },
+    "made_by": {
+      "it": "Made by Mattia Salvadori",
+      "en": "Made by Mattia Salvadori",
+      "de": "Made by Mattia Salvadori",
+      "fr": "Made by Mattia Salvadori"
+    }
   }
 }
